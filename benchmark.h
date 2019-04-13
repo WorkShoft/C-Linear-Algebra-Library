@@ -1,3 +1,9 @@
+/*
+Code based on the information posted at
+https://stackoverflow.com/questions/2349776/how-can-i-benchmark-c-code-easily
+*/
+
+
 #ifdef WIN32
 
 #include <windows.h>
