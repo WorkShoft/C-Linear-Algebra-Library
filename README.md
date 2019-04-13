@@ -1,4 +1,4 @@
-!(clingalg-logo.png)
+![](clingalg-logo.png)
 
 The main goal of this library is to provide an API that simplifies the development of powerful software applications, such as OpenGL/Vulkan 3D games and engineering tools.
 
