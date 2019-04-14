@@ -4,7 +4,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
 <head>
 <title>documentation</title>
-<!-- 2019-04-14 dom 13:11 -->
+<!-- 2019-04-14 dom 13:14 -->
 <meta  http-equiv="Content-Type" content="text/html;charset=utf-8" />
 <meta  name="generator" content="Org-mode" />
 <meta  name="author" content="mikel" />
@@ -151,6 +151,7 @@ for the JavaScript code in this tag.
 <head>
 <link href="https://stackpath.bootstrapcdn.com/bootswatch/4.3.1/sandstone/bootstrap.min.css" rel="stylesheet" integrity="sha384-G3Fme2BM4boCE9tHx9zHvcxaQoAkksPQa/8oyn1Dzqv7gdcXChereUsXGx6LtbqA" crossorigin="anonymous">
 <link href="documentation.css" type="text/css" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css?family=IBM+Plex+Sans" rel="stylesheet"> 
 </head>
 
 </p>
@@ -194,7 +195,7 @@ that supports it is available.
 </div>
 <div id="postamble" class="status">
 <p class="author">Author: mikel</p>
-<p class="date">Created: 2019-04-14 dom 13:11</p>
+<p class="date">Created: 2019-04-14 dom 13:14</p>
 <p class="creator"><a href="http://www.gnu.org/software/emacs/">Emacs</a> 25.2.2 (<a href="http://orgmode.org">Org</a> mode 8.2.10)</p>
 <p class="validation"><a href="http://validator.w3.org/check?uri=referer">Validate</a></p>
 </div>

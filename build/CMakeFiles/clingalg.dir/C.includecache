@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+..//benchmark.h
+windows.h
+-
+sys/time.h
+-
+sys/resource.h
+-
+
+..//vector.h
+math.h
+-
+
+/home/mikel/clinalg/test_all.c
+benchmark.h
+-
+vector.h
+-
+
