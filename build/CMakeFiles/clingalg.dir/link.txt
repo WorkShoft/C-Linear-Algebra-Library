@@ -1,1 +1,0 @@
-/usr/bin/cc    CMakeFiles/clingalg.dir/test_all.c.o  -o clingalg 
