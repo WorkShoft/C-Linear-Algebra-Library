@@ -27,3 +27,18 @@ that supports it is available.
 
 
 
+* DEPENDENCIES
+| Library | Ubuntu package(s) |
+| Cunit   | libcunit1-dev     |
+
+* REFERENCE
+** Linear Algebra
+[[www.amazon.com/Introduction-Linear-Algebra-Gilbert-Strang/dp/0980232775][Introduction to Linear Algebra, Fifth Edition]]
+
+** OpenGL
+[[learnopengl.com][Learn OpenGL]]
+[[github.com/capnramses/antons_opengl_tutorials_book][Anton's OpenGL Tutorials]]
+
+
+
+
